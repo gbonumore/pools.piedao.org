@@ -9,6 +9,8 @@ import Dough from '../pages/Dough.svelte';
 import Dashboard from '../pages/Dashboard.svelte';
 import LPStaking from '../pages/LPStaking.svelte';
 import PieLanding from '../pages/PieIndexLanding.svelte';
+import Guides from '../pages/Guides.svelte';
+
 
 export const defaultRouteObj = {
   page: Dashboard,
@@ -46,6 +48,8 @@ const formatRoute = (route) => {
       return { page: PieLanding, params: { address } };
     case 'dough':
       return { page: Dough };
+    case 'Guides':
+      return { page: Guides };
     case 'migrate':
       return { page: Migration, params: { address } };
     case 'stake':
