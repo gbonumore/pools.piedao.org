@@ -144,7 +144,7 @@
       aprEnabled: false,
       deprecated: false,
       addressUniPoll: '0xb3c2b0056627cc1dc148d8fc29f5abdf4dd837bc',
-      poolLink: "https://pools.balancer.exchange/#/pool/0x78f225869c08d478c34e5f645d07a87d3fe8eb78/",
+      poolLink: "https://pools.balancer.exchange/#/pool/0xa795600590a7da0057469049ab8f1284baed977e/",
       name: 'DEFI+L/ETH',
       type: 'Balancer',
       contractType: 'Geyser',
