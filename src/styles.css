@@ -1186,5 +1186,8 @@ button.svelte-1nn74u2 {border: none!important; padding: 1rem 0rem!important;}
 }
 
 
-
+.no-horizontal-scroll {
+  max-width: 100%;
+  overflow-x: hidden;
+}
 

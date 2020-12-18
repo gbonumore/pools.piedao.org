@@ -91,7 +91,9 @@
       />
     </span>
   </Modal>
-  <section class="pt-12 px-4 text-center">
+
+  <div class="no-horizontal-scroll">
+     <section class="pt-12 px-4 text-center">
     <div class="w-full max-w-2xl mx-auto">
       <h2 class="text-xl mt-2 mb-6 leading-tight font-heading">Baking Together</h2>
       <p class="mb-4 text-gray-500 font-thin text-md leading-relaxed">The PieDAO Oven pools ETH to issue pies in batches, giving users access to our index products gas-free. This design makes getting involved affordable and convenient, opening participation to everyone. Don't forget, the Oven won't activate until it's full!</p>
@@ -126,8 +128,8 @@
   </div>
 </section>
 
-<div class="flex flex-col w-96pc place-content-center spl">
-  <table class="breakdown-table table-auto w-full mx-6">
+<div class="flex flex-col w-full m-4 place-content-center spl">
+  <table class="breakdown-table table-auto w-full">
     <thead>
       <tr>
         <th class="font-thin border-b-2 px-4 py-2 text-left">Pie Name</th>
@@ -178,7 +180,7 @@
 
 
 
-<section class="pt-12 px-4 text-center">
+<section class="w-full pt-12 px-4 text-center">
   <div class="w-full max-w-2xl mx-auto">
     <h2 class="text-xl mt-2 mb-6 leading-tight font-heading">In a Rush?</h2>
     <p class="mb-4 text-gray-500 font-thin text-md leading-relaxed">You can always issue your own pie instantly from our Index page.</p>
@@ -187,6 +189,7 @@
     Issue liquidity
   </button>
 </section>
-
+</div>
+ 
 
 
