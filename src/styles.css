@@ -1174,3 +1174,17 @@ button.svelte-1nn74u2 {border: none!important; padding: 1rem 0rem!important;}
     display: none;
   }
 }
+
+.oven-ether-card {
+  background-color: #9080dc;
+  border-radius: 10px;
+}
+
+.oven-pie-card {
+  background-color: #1ec0ff;
+  border-radius: 10px;
+}
+
+
+
+

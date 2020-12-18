@@ -224,13 +224,13 @@ const deposit = async () => {
   <div class="flex justify-center font-thin mb-2">
 
     <div class="flex w-full text-black text-center text-xs md:text-xs lg:text-base justify-around mt-2 md:mt-0">
-      <div class="p-0 mr-8 ">
+      <div class="m-2 oven-ether-card py-4 px-10 lg:py-8 lg:px-20 md:py-8 md:px-20">
         <div class="">
           Your ETH in the Oven
         </div>
         <div class="font-bold">{toFixed(ovenData.ethBalance, 6)} ETH</div>
       </div>
-      <div class="p-0 mr-8">
+      <div class="m-2 oven-pie-card py-4 px-10 lg:py-8 lg:px-20 md:py-8 md:px-20">
         <div class="">
           Pie Ready to Withdraw
         </div>
