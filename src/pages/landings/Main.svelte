@@ -53,8 +53,8 @@
       </div>
         <img class="w-100pc h-auto md:w-100pc h-auto"src={images.etflike} alt="PieDAO Hero" />
       </div>
-    <div class="flex w-5/12 flex-col mt-10 p-5">
-      <div class="font-bold text-lg">Convenient</div>
+    <div class="flex w-8/12 flex-col mt-10 p-5 lg:w-5/12 md:w-5/12">
+      <div class="font-bold text-lg text-center lg:text-left">Convenient</div>
       <div class="font-thin mb-50px">Broad DeFi exposure at the tap of a button.</div>
       <div class="font-bold text-lg">Safe</div>
       <div class="font-thin mb-50px">Diversification is the safest strategy. Fully audited and non-custodial.</div>
