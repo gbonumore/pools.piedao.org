@@ -128,7 +128,7 @@
   </div>
 </section>
 
-<div class="flex flex-col w-full m-4 place-content-center spl">
+<div class="flex flex-col w-full my-4 mx-4 place-content-center spl">
   <table class="breakdown-table table-auto w-full">
     <thead>
       <tr>
